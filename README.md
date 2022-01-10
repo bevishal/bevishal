@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <hi align="center">Hi there, I am Vishal Pandey 👋</h1>
 
-- 🌱 I’m currently learning <strong>React and NodeJS</strong>
+- 🌱 I’m currently learning <strong>Front End with React and NodeJS</strong>
 - 📫 How to reach me: <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="15" width="15"> <a href="https://www.linkedin.com/in/vishal-pandey-78537a180" target="_blank">Vishal Pandey</a>
  <p>
   <img src="https://github-readme-stats.vercel.app/api?username=bevishal&show_icons=true&hide=contribs,prs" alt="bevishal">
